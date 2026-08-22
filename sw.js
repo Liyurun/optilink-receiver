@@ -1,4 +1,4 @@
-const CACHE_NAME = 'optilink-web-receiver-v2';
+const CACHE_NAME = 'optilink-web-receiver-v3';
 const APP_SHELL = ['./', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (event) => {
